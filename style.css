@@ -21,11 +21,10 @@
 .header__logo {
   width: 176px;
   height: 52px;
-  fill: red;
 }
 
-.header__lang-links {
-}
+/* .header__lang-links {
+} */
 
 .header__lang-link {
   font-family: "Inter", sans-serif;
@@ -247,8 +246,8 @@
   object-fit: cover;
 }
 
-.places__text {
-}
+/* .places__text {
+} */
 
 .places__paragraph {
   margin: 0;
@@ -337,8 +336,8 @@
   justify-content: space-between;
 }
 
-.footer__menu {
-}
+/* .footer__menu {
+} */
 
 .footer__links {
   margin: 0;
