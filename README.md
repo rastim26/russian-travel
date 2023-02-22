@@ -1,4 +1,4 @@
-# Проект: [Путешествие по России](https://rastim26.github.io/how-to-learn/)
+# Проект: [Путешествие по России](https://rastim26.github.io/russian-travel/)
 
 ## О сайте:
 
