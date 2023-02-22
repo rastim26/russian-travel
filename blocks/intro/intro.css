@@ -1,0 +1,14 @@
+.intro {
+  padding-top: 92px;
+  min-height: 400px;
+}
+@media (max-width: 850px) {
+    .intro {
+        padding-top: 88px;
+      }
+}
+@media (max-width: 680px) {
+    .intro {
+        padding-top: 64px;
+      }
+}

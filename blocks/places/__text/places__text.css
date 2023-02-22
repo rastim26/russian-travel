@@ -1,0 +1,6 @@
+@media (max-width: 680px) {
+    .places__text {
+        margin-left: 16px;
+        margin-right: 16px;
+      }
+}

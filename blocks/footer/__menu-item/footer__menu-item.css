@@ -1,0 +1,12 @@
+.footer__menu-item {
+  list-style: none;
+  margin-left: 18px;
+}
+.footer__menu-item:first-child {
+  margin-left: 0;
+}
+@media (max-width: 680px) {
+    .footer__menu-item {
+        margin-left: 0;
+      }
+}
