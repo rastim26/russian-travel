@@ -3,17 +3,16 @@
   object-fit: cover;
 }
 @media (max-width: 680px) {
-    .places__image {
-        width: calc(100% - 24px * 2);
-        margin-right: auto;
-        margin-left: auto;
-        object-fit: cover;
-      }
+  .places__image {
+    width: calc(100% - 24px * 2);
+    margin-right: auto;
+    margin-left: auto;
+  }
 }
 @media (max-width: 425px) {
-    .places__image {
-        width: 100%;
-        margin-right: 0;
-        margin-left: 0;
-      }
+  .places__image {
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+  }
 }

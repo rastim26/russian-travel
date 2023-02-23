@@ -1,17 +1,18 @@
 .places__paragraph {
   margin: 0;
-  font-family: "Inter", sans-serif;
+  font-family: "Inter", Arial, Sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.63;
-}
-.places__paragraph:nth-child(2) {
   margin-top: 26px;
 }
+.places__paragraph:first-child {
+  margin-top: 0;
+}
 @media (max-width: 850px) {
-    .places__paragraph {
-        font-size: 16px;
-        line-height: 1.63;
-      }
+  .places__paragraph {
+    font-size: 16px;
+    line-height: 1.63;
+  }
 }
