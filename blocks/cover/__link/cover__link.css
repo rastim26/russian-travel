@@ -1,6 +1,7 @@
 .cover__link {
   position: absolute;
   top: 0;
+  left: auto;
   width: 100%;
   max-width: 1184px;
   height: 100%;
